@@ -1,0 +1,84 @@
+#nav-area{
+    background-color:rgba(228, 154, 192, 0.8);
+}
+#nav-area .icon a{
+    text-decoration: none;
+}
+#nav-area .icon a i{
+    font-size:30px;
+    color:white;
+}
+#nav-area .icon sup{
+    top:-1em;
+    font-size:17px;
+    color: white;
+}
+#basket h1{
+    text-align: center;
+    margin-top: 18px;
+}
+tbody img{
+    width: 100px;
+    height: 100px;
+}
+tbody tr td:nth-child(2){
+    font-weight: bold;
+}
+
+tbody tr td:nth-child(4){
+    font-weight: bold;
+    width: 81px;
+   
+}
+tbody tr td:nth-child(5){
+    display: inline;
+    
+    
+    font-weight: bold;
+    text-align: center;
+    
+}
+tbody tr td:nth-child(6){
+    cursor: pointer;
+    text-align: center;
+    font-size: 23px;
+}
+#basket .total h1{
+   display:inline-block;
+}
+#basket .table td:nth-child(5) span:nth-child(1){
+    font-size: 32px;
+    color: #c47784;
+    cursor: pointer;
+    display: inline;
+    margin: 10px;
+}
+#basket .table td:nth-child(5) span:nth-child(3){
+    font-size: 28px;
+    color: #c47784;
+    cursor: pointer;
+    display: inline;
+    margin: 10px;
+}
+#basket .table td:nth-child(5) span:nth-child(2){
+    font-size:25px ;
+    display: inline;
+    color:#6c757d
+
+    
+}
+
+#basket .clear .clear-button{
+    background-color: #c47784;
+    border-color: #c47784;
+    margin-top: 15px;
+}
+
+.table .tr{
+    position: relative;
+}
+#basket .table .count{
+    position: absolute;
+    right: 206px;
+}
+
